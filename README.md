@@ -7,5 +7,5 @@ Features include:
 * Navigation fade animations
 * Sticky navigation
 * Revealing sections on scroll
-* Lazy images loading
+* Lazy image loading
 * Slider functionality
